@@ -1,0 +1,41 @@
+.backgroundWash
+{
+    background-color: cornflowerblue;
+}
+
+.headerText
+{
+font-family: 'Montserrat', sans-serif;
+font-size: 20px;
+text-align: center;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.bodyText
+{
+font-family: 'Open Sans', sans-serif;
+}
+
+.thickFont  
+{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+
+}
+
+.thinFont
+{   color:white;
+   font-family: 'Open Sans', sans-serif; 
+    font-size: 40px;
+   
+}
+
+.thinParagraph
+{   color:rgb(207, 209, 211);
+   font-family: 'Open Sans', sans-serif; 
+    font-size: 14px;
+   
+}
+
