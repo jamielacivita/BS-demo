@@ -36,6 +36,9 @@ font-family: 'Open Sans', sans-serif;
 {   color:rgb(207, 209, 211);
    font-family: 'Open Sans', sans-serif; 
     font-size: 14px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom:75px;
    
 }
 
@@ -55,6 +58,7 @@ font-family: 'Open Sans', sans-serif;
     height: 40px;
     border-radius:50px;
     background-color:royalblue;
+    margin-left:75px;
 }
 
 .navbar 
