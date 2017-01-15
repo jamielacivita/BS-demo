@@ -57,6 +57,12 @@ font-family: 'Open Sans', sans-serif;
     background-color:royalblue;
 }
 
+.navbar 
+{
+    padding-top:30px;
+    background-color: cornflowerblue;
+    border: none;
+}
 
 .navbar-brand {
   padding: 0px;
@@ -65,4 +71,11 @@ font-family: 'Open Sans', sans-serif;
   height: 100%;
   padding: 15px;
   width: auto;
+}
+
+.navbarLink
+{
+    font-size:18px;
+    color:rgb(207, 209, 211);
+    padding-right:100px;
 }
