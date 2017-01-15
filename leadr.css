@@ -39,3 +39,30 @@ font-family: 'Open Sans', sans-serif;
    
 }
 
+.spacer
+{
+    height: 250px;
+}
+
+.myButton
+{
+    padding-top:10px;
+    color:rgb(207, 209, 211);
+   font-family: 'Open Sans', sans-serif; 
+    font-size: 14px;
+
+    width:250px;
+    height: 40px;
+    border-radius:50px;
+    background-color:royalblue;
+}
+
+
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px;
+  width: auto;
+}
