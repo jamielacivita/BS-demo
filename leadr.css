@@ -36,6 +36,9 @@ font-family: 'Open Sans', sans-serif;
 {   color:rgb(207, 209, 211);
    font-family: 'Open Sans', sans-serif; 
     font-size: 14px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom:75px;
    
 }
 
@@ -55,8 +58,15 @@ font-family: 'Open Sans', sans-serif;
     height: 40px;
     border-radius:50px;
     background-color:royalblue;
+    margin-left:75px;
 }
 
+.navbar 
+{
+    padding-top:30px;
+    background-color: cornflowerblue;
+    border: none;
+}
 
 .navbar-brand {
   padding: 0px;
@@ -67,6 +77,7 @@ font-family: 'Open Sans', sans-serif;
   width: auto;
 }
 
+<<<<<<< HEAD
 nav
 {
      background-color: cornflowerblue;
@@ -193,4 +204,10 @@ videoPic
     border: 1px solid darkslategray;
     margin-right:15px;
     font-size:20px;
+
+.navbarLink
+{
+    font-size:18px;
+    color:rgb(207, 209, 211);
+    padding-right:100px;
 }
